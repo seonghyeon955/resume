@@ -1,6 +1,6 @@
 # Site settings
 title: "Resume :: seonghyeon Kim"
-description: "A resume for Seonghyeon Kim and GitHub Pages sites."
+description: "A resume for Seonghyeon Kim and her GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Seonghyeon Kim"
-resume_title:                   "Developer running with head"
+resume_title:                   "A Server Developer running with head"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lawlite55@naver.com"
