@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Genie Bookstore
+- project: [Final poject]
+  role: product detail page / shopping basket / overall css including header and footer
+  duration: 2020.09.14 &mdash; 2020.10.15
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Genie Bookstore is a website created based on Kyobo Bookstore, where you can get detailed information about actual books and select payment and free gifts.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Busway
+- project: [Semi project]
+  role: menu selection / shopping basket / css overall
+  duration: 2020.07.23 &mdash; 2020.08.05
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A webpage where you can order a variety of foods, including sandwiches in online.
