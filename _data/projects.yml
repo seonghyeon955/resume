@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Genie Bookstore
-- project: [Final poject] - Genie Bookstore
+- project: Genie Bookstore
   role: product detail page / shopping basket / overall css including header and footer
   duration: 2020.09.14 &mdash; 2020.10.15
   url: "https://github.com/seonghyeon955/test"
@@ -10,7 +10,7 @@
   
 
 # Busway
-- project: [Semi project] - Busway
+- project: Busway
   role: menu selection / shopping basket / css overall
   duration: 2020.07.23 &mdash; 2020.08.05
   url: "https://github.com/seonghyeon955/semi"
