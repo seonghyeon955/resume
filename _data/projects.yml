@@ -2,16 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Genie Bookstore
-- project: Genie Bookstore
+- project: Genie Bookstore_final project
   role: product detail page / shopping basket / overall css including header and footer
   duration: 2020.09.14 &mdash; 2020.10.15
   url: "https://github.com/seonghyeon955/test"
-  description: Genie Bookstore is a website created based on Kyobo Bookstore, where you can get detailed information about actual books and select payment and free gifts. click the title(final project) to go to the Github homepage.
+  description: Genie Bookstore is a website created based on Kyobo Bookstore, where you can get detailed information about actual books and select payment and free gifts. click the title(Genie Bookstore) to go to the Github homepage.
   
 
 # Busway
-- project: Busway
+- project: Busway_semi project
   role: menu selection / shopping basket / css overall
   duration: 2020.07.23 &mdash; 2020.08.05
   url: "https://github.com/seonghyeon955/semi"
-  description: A webpage where you can order a variety of foods, including sandwiches in online. click the title(semi project) to go to the Github homepage. 
+  description: A webpage where you can order a variety of foods, including sandwiches in online. click the title(Busway) to go to the Github homepage. 
