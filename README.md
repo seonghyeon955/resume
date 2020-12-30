@@ -12,6 +12,8 @@
 ![img](images/p2.png)
 학원에서 [Genie Bookstore] 파이널 프로젝트와 [Busway] 세미 프로젝트를 진행하였습니다.
 
+
+
 [Genie Bookstore]는 교보문고를 모티브로 하여 만든 웹사이트입니다.
 
 
@@ -22,6 +24,8 @@
 
 
 프로젝트에 대한 자세한 사항은 제목(Genie Bookstore)을 클릭하여 깃허브 홈페이지에서 확인하실 수 있습니다.
+
+
 
 
 
