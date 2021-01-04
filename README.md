@@ -1,6 +1,6 @@
 # 머리로 뛰는 개발자, 김성현 입니다
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+--*A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/p1.png)
 학교에서 UX/UI디자인 관련 수업을 들은 뒤 웹사이트의 디자인을 넘어 본격적인 웹사이트의 구동에 흥미를 가지게 되었습니다.
